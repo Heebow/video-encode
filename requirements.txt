@@ -1,4 +1,5 @@
-Pyrogram==2.0.30
+#Pyrogram==2.0.30
+Pyrogram
 TgCrypto
 python-decouple
 ffmpeg-python
